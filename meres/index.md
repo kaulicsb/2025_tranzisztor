@@ -1,28 +1,43 @@
 # Tranzisztor működésének vizsgálata
 ---  
-- Mérést végezte: Sándor Péter
-- Mérés helye: Villamos 3 labor
+- Mérést végezte: Kaulics Balázs
 - Időpont: 2025.01.07.
-- stb...
+- Mérés helye: Villamos 3 labor
+
+
 ---
 ## Méréshez használt eszközök / berendezések:
-- NI Mydaq: 234246436835685SN
+- NI Mydaq: 304542A SN
 - Metex M-3800: 736015
+---
+
+## A mérés folyamata:
+>   Az NI myDAQ műszerrel tanulmányoztam a tranzisztor működését. A mérési áramkörben a tranzisztor bázisára vezérlőjelet adtam egy sorosan kapcsolt ellenálláson keresztül. A vizsgálat során megmértem az emitter- és kollektoráramokat, valamint a kollektor-ellenálláson eső feszültségből következtettem a tranzisztor állapotára és a vezérlőáram hatására.
 ---
 
 Kapcsolasi rajz:
 https://tinyurl.com/256r4w2w
+---
 
+Megvalósítása :
+![IMG_3333](https://github.com/user-attachments/assets/95c4f417-141d-453c-bddb-6e2bad726efe)
 
-Kép:
-![kepek20190608_2019_09_15_IMG_20190912_094837](https://github.com/user-attachments/assets/225da07f-891e-48bf-b720-508a9de7dbd2)
+---
 
-> ide akármi gondolat...
+---
 
-| Név    | Kor | Város    |
-|--------|-----|----------|
-| Anna   | 25  | Budapest |
-| Béla   | 34  | Debrecen |
-| Csaba  | 29  | Szeged   |
-| Dóra   | 22  | Pécs     |
-| Eszter | 31  | Győr     |
+Ube=5V
+
+| Ube (V) | URc (V)  | I (mA)   |
+|---------|----------|----------|
+| 0       | 0        |  0.000   |
+| 0.5     | 0.026    |  0.011   |
+| 0.6     | 0.102    |  0.46   |
+| 0.7     | 0.871      | 3.9    |
+| 0.8     | 2,13        |  9.68     |
+| 0.9     | 2.48      |  11,27    |
+| 1       | 2.5      |  11,36  |  
+| 1,.1    | 2.5      |  11,36     |  
+
+A mérés során megfigyeltem, hogy 1V felett az értékek már nem mutatnak jelentős változást.
+
