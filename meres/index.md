@@ -38,6 +38,8 @@ Ube=5V
 | 0.9     | 2.48      |  11,27    |
 | 1       | 2.5      |  11,36  |  
 | 1,.1    | 2.5      |  11,36     | 
+
+
 ![Névtelen terv](https://github.com/user-attachments/assets/bde740ad-e39f-42f8-80ae-18e6ef3cb945)
 
 
