@@ -15,18 +15,17 @@
 >   Az NI myDAQ műszerrel tanulmányoztam a tranzisztor működését. A mérési áramkörben a tranzisztor bázisára vezérlőjelet adtam egy sorosan kapcsolt ellenálláson keresztül. A vizsgálat során megmértem az emitter- és kollektoráramokat, valamint a kollektor-ellenálláson eső feszültségből következtettem a tranzisztor állapotára és a vezérlőáram hatására.
 ---
 
-##Kapcsolasi rajz:
+## Kapcsolasi rajz:
 https://tinyurl.com/256r4w2w
 ---
 
-##Megvalósítása :
+## Megvalósítása :
 ![IMG_3333](https://github.com/user-attachments/assets/95c4f417-141d-453c-bddb-6e2bad726efe)
 
 ---
 
 ---
 
-Ube=5V
 ## A méréssel kapott eredmények:
 | Ube (V) | URc (V)  | I (mA)   |
 |---------|----------|----------|
