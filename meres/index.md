@@ -37,7 +37,10 @@ Ube=5V
 | 0.8     | 2,13        |  9.68     |
 | 0.9     | 2.48      |  11,27    |
 | 1       | 2.5      |  11,36  |  
-| 1,.1    | 2.5      |  11,36     |  
+| 1,.1    | 2.5      |  11,36     | 
+![Névtelen terv](https://github.com/user-attachments/assets/bde740ad-e39f-42f8-80ae-18e6ef3cb945)
+
+
 
 A mérés során megfigyeltem, hogy 1V felett az értékek már nem mutatnak jelentős változást.
 
