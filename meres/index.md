@@ -42,6 +42,6 @@ https://tinyurl.com/256r4w2w
 ![Névtelen terv](https://github.com/user-attachments/assets/bde740ad-e39f-42f8-80ae-18e6ef3cb945)
 
 
-
-A mérés során megfigyeltem, hogy 1V felett az értékek már nem mutatnak jelentős változást.
+## Tapasztalat:
+>A mérés során megfigyeltem, hogy 1V felett az értékek már nem mutatnak jelentős változást.
 
